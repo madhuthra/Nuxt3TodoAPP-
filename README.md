@@ -14,10 +14,10 @@ Delete tasks from the TODO list.
 
 ## Installation
 Clone the repository:
-git clone https://github.com/your-username/todo-management-website.git
+git clone https://github.com/madhuthra/Nuxt3TodoAPP-.git
 
 ## Navigate to the project directory:
-cd todo-management-website
+cd Nuxt3TodoAPP-
 
 ## Install dependencies:
 npm install
